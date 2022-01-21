@@ -7,6 +7,6 @@ Favourite Recipes For Posterity
 
 | Dish | English | Français |
 |------|---------|----------|
-| Lemon Pie Meringue | [:uk:](recipes/lemonpiemeringue_en.md) | :fr: |
+| Lemon Pie Meringue | [:uk:](recipes/lemonpiemeringue_en.md) | [:fr:](recipes/tartecitronmeringue.md) |
 | Panna Cotta | | :fr: |
 | No-Bake Cheesecake | :en: | |  

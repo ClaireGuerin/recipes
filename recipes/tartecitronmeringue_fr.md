@@ -23,7 +23,7 @@ Beurrer et fariner un plat à tarte. Une fois la pâte étalée dans le plat, y 
 Battre 1 œuf entier avec 2 jaunes. Mettre de côté les 2 blancs d’oeuf, avec le précédent, pour la meringue.
 Dans une petite casserole, d’abord raper finement les 2 citrons, puis les presser ainsi que le citron vert. Ne pas hésiter à garder la pulpe avec le jus et le zeste, tout en faisant attention à retirer les graines. Ajouter le sucre (100g) et placer la casserole sur le feu. Mélanger constamment et énergiquement. Ajouter la farine petit à petit, tout en continuant à mélanger pour ne pas faire de grumeaux. Ajuster avec de l’eau si nécessaire jusqu’à atteindre la texture désirée. Lorsque la crème commence a brunir, verser les œufs sans arrêter de mélanger pour ne pas faire une omelette! Une fois que la crème épaissit, retirer la casserole du feu.
 
-Note: le feu doit être à forte température, mais la crème ne doit jamais bouillir! Il faut garder un œil sur la casserole durant toute la cuisson.
+> Note: le feu doit être à forte température, mais la crème ne doit jamais bouillir! Il faut garder un œil sur la casserole durant toute la cuisson.
 
 Étaler la crème citron dans le plat à tarte, par dessus la pâte sablée dorée.
 
